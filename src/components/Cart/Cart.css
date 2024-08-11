@@ -1,0 +1,22 @@
+.cart{
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px  rgba(12, 18, 24, 0.247);
+    padding-inline:15px ;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: left;
+}
+.cart h3{
+    color: rgb(104, 104, 252);
+}
+.cart h4{
+    font-weight: 500 ;
+}
+.cart hr{
+    opacity: 50%;
+}
+.cart li{
+    font-size: 16px;
+    color: gray;
+}

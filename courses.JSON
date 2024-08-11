@@ -1,0 +1,82 @@
+[
+    {
+        "id": "B45ASXSFA",
+        "name": "C Programming Basics",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 500,
+        "credit_hour": 1,
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20231231112540/C-Programming-Language.png"
+    },
+    {
+        "id": "C78JKLSDG",
+        "name": "Advanced Java",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 1500,
+        "credit_hour": 4,
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305131111/Java-programming.png"
+    },
+    {
+        "id": "D34JKSDFG",
+        "name": "Web Development",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 1000,
+        "credit_hour": 3,
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp"
+    },
+    {
+        "id": "E56MKLSDF",
+        "name": "Data Structures",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 2500,
+        "credit_hour": 5,
+        "image": "https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_650d3db316f2886e1e36d8dd_Main_Image_8b5a7d79f7.jpg"
+    },
+    {
+        "id": "F67NJDSKF",
+        "name": "Python Programming",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 500,
+        "credit_hour": 1,
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230323115423/10-Tips-and-Tricks-to-Write-the-Better-Python-Code.png"
+    },
+    {
+        "id": "G78OLKSDG",
+        "name": "Machine Learning",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 3000,
+        "credit_hour": 8,
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20231231113646/ML-Tutorial.jpg"
+    },
+    {
+        "id": "H89PLKSDG",
+        "name": "Database Systems",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 2000,
+        "credit_hour": 6,
+        "image": "https://cdn.prod.website-files.com/618a899ac6938d341ce4004a/63be563646608e4b8a00af7f_database%20system.webp"
+    },
+    {
+        "id": "I90QWKSDG",
+        "name": "Cybersecurity Basics",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 1700,
+        "credit_hour": 3,
+        "image": "https://terralogic.com/wp-content/uploads/2022/10/1-Main-banner-1024x448.webp"
+    },
+    {
+        "id": "J12RWKSDG",
+        "name": "Mobile Development",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 2200,
+        "credit_hour": 5,
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230618024329/Top-Mobile-App-Development-Frameworks-in-2023.jpg"
+    },
+    {
+        "id": "K34SWKSDG",
+        "name": "Artificial Intelligence",
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "price": 2800,
+        "credit_hour": 7,
+        "image": "https://cdn.corporatefinanceinstitute.com/assets/artificial-intelligence-1024x512.jpeg"
+    }
+]
